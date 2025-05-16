@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/KvcdM5WJ0L7BlzmJ1Tm0RmDoS9RLqcG2NdqgiN7agQ=",
+  "Hash": "ZKPXE5BsyVI9NIf79bL2MtffKJfZId/4e3JxEAv0rYM=",
   "Source": "TequilaRestaurant",
   "BasePath": "_content/TequilaRestaurant",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "b3wtp95r5q",
+      "Integrity": "t9SuAGPExCY1+l2G8g+vns7BRPNj9/CgGc+AfGhsfNo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1359,6 +1359,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\images\\beeftacos.jpeg",
+      "SourceId": "TequilaRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\",
+      "BasePath": "_content/TequilaRestaurant",
+      "RelativePath": "images/beeftacos#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n1eszjte92",
+      "Integrity": "5UozXvjW0u/dJUUTEEpA2ZkdlHWC+NH6P2/L3q9xoyg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\beeftacos.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\images\\chickentacos.jpeg",
+      "SourceId": "TequilaRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\",
+      "BasePath": "_content/TequilaRestaurant",
+      "RelativePath": "images/chickentacos#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7i3fugnqp7",
+      "Integrity": "gTL49cx+6xH/xsh8iPDequ6udMebRlAy67SCdvlFAzY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\chickentacos.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\images\\fishtacos.jpeg",
+      "SourceId": "TequilaRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\",
+      "BasePath": "_content/TequilaRestaurant",
+      "RelativePath": "images/fishtacos#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nt7biqvbn2",
+      "Integrity": "pVlH2PpiwgyGsj7nfbhJ9H9h/hrvW72qKyut2MaD8jE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fishtacos.jpeg"
     },
     {
       "Identity": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\js\\site.js",
@@ -2581,7 +2644,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
+      "Route": "css/site.b3wtp95r5q.css",
       "AssetFile": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2591,7 +2654,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "557"
         },
         {
           "Name": "Content-Type",
@@ -2599,11 +2662,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"t9SuAGPExCY1+l2G8g+vns7BRPNj9/CgGc+AfGhsfNo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 19:53:43 GMT"
+          "Value": "Fri, 16 May 2025 07:42:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2613,7 +2676,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "b3wtp95r5q"
         },
         {
           "Name": "label",
@@ -2621,7 +2684,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-t9SuAGPExCY1+l2G8g+vns7BRPNj9/CgGc+AfGhsfNo="
         }
       ]
     },
@@ -2636,7 +2699,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "557"
         },
         {
           "Name": "Content-Type",
@@ -2644,11 +2707,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"t9SuAGPExCY1+l2G8g+vns7BRPNj9/CgGc+AfGhsfNo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 19:53:43 GMT"
+          "Value": "Fri, 16 May 2025 07:42:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2658,7 +2721,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-t9SuAGPExCY1+l2G8g+vns7BRPNj9/CgGc+AfGhsfNo="
         }
       ]
     },
@@ -4961,6 +5024,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "images/beeftacos.jpeg",
+      "AssetFile": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\images\\beeftacos.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5UozXvjW0u/dJUUTEEpA2ZkdlHWC+NH6P2/L3q9xoyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 07:45:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5UozXvjW0u/dJUUTEEpA2ZkdlHWC+NH6P2/L3q9xoyg="
+        }
+      ]
+    },
+    {
+      "Route": "images/beeftacos.n1eszjte92.jpeg",
+      "AssetFile": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\images\\beeftacos.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5UozXvjW0u/dJUUTEEpA2ZkdlHWC+NH6P2/L3q9xoyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 07:45:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n1eszjte92"
+        },
+        {
+          "Name": "label",
+          "Value": "images/beeftacos.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5UozXvjW0u/dJUUTEEpA2ZkdlHWC+NH6P2/L3q9xoyg="
+        }
+      ]
+    },
+    {
+      "Route": "images/chickentacos.7i3fugnqp7.jpeg",
+      "AssetFile": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\images\\chickentacos.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTL49cx+6xH/xsh8iPDequ6udMebRlAy67SCdvlFAzY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 07:46:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7i3fugnqp7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/chickentacos.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTL49cx+6xH/xsh8iPDequ6udMebRlAy67SCdvlFAzY="
+        }
+      ]
+    },
+    {
+      "Route": "images/chickentacos.jpeg",
+      "AssetFile": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\images\\chickentacos.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTL49cx+6xH/xsh8iPDequ6udMebRlAy67SCdvlFAzY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 07:46:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTL49cx+6xH/xsh8iPDequ6udMebRlAy67SCdvlFAzY="
+        }
+      ]
+    },
+    {
+      "Route": "images/fishtacos.jpeg",
+      "AssetFile": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\images\\fishtacos.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pVlH2PpiwgyGsj7nfbhJ9H9h/hrvW72qKyut2MaD8jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 07:47:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pVlH2PpiwgyGsj7nfbhJ9H9h/hrvW72qKyut2MaD8jE="
+        }
+      ]
+    },
+    {
+      "Route": "images/fishtacos.nt7biqvbn2.jpeg",
+      "AssetFile": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\images\\fishtacos.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pVlH2PpiwgyGsj7nfbhJ9H9h/hrvW72qKyut2MaD8jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 07:47:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nt7biqvbn2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fishtacos.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pVlH2PpiwgyGsj7nfbhJ9H9h/hrvW72qKyut2MaD8jE="
         }
       ]
     },

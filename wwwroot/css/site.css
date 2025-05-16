@@ -20,3 +20,9 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.fixed-image-height {
+    height: 200px;
+    object-fit: cover; /*ensures image covers the area without distortion*/
+    width: 100%; /*ensures image takes the full width of container*/
+}

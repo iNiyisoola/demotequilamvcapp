@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\images\\beeftacos.jpeg",
+      "PackagePath": "staticwebassets\\images\\beeftacos.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\images\\chickentacos.jpeg",
+      "PackagePath": "staticwebassets\\images\\chickentacos.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\images\\fishtacos.jpeg",
+      "PackagePath": "staticwebassets\\images\\fishtacos.jpeg"
+    },
+    {
       "Id": "C:\\Users\\user\\VS Web API\\TequilaRestaurant\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

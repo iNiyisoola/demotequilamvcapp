@@ -154,3 +154,4 @@ C:\Users\user\VS Web API\TequilaRestaurant\obj\Debug\net8.0\refint\TequilaRestau
 C:\Users\user\VS Web API\TequilaRestaurant\obj\Debug\net8.0\TequilaRestaurant.pdb
 C:\Users\user\VS Web API\TequilaRestaurant\obj\Debug\net8.0\TequilaRestaurant.genruntimeconfig.cache
 C:\Users\user\VS Web API\TequilaRestaurant\obj\Debug\net8.0\ref\TequilaRestaurant.dll
+C:\Users\user\VS Web API\TequilaRestaurant\obj\Debug\net8.0\TequilaRestaurant.sourcelink.json
